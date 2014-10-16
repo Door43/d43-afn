@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afn:home|Door43 (afn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afn|d43-afn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afn/archive/master.zip|d43-afn.zip]]
+
+**Recent Changes**
+{{changes>ns = afn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afn|Ethnologue data]]
+
